@@ -1,0 +1,6 @@
+102	RajundraKadam	raju@gmail.com	pune	758655	8975642314	maharashtra	india
+
+101	ravindra kadam	Ravi@123	Pune	123456	9022415263	mh	in
+
+102	Rajesh Kadam	rajesh@gmail.com	pune	123456	8574964565	MH	India
+
